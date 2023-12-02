@@ -1,0 +1,1 @@
+/home/c/Documentos/rust/advent-of-code/day-01/target/debug/libday_01.rlib: /home/c/Documentos/rust/advent-of-code/day-01/src/custom_error.rs /home/c/Documentos/rust/advent-of-code/day-01/src/lib.rs /home/c/Documentos/rust/advent-of-code/day-01/src/part1.rs
